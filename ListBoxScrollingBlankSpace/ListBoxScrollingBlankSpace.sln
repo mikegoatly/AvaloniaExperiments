@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.34909.67
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListBoxScrollingBlankSpace", "ListBoxScrollingBlankSpace.csproj", "{EE269A97-1697-4471-A8C6-E79B568FC14D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListBoxScrollingBlankSpace.Desktop", "..\ListBoxScrollingBlankSpace.Desktop\ListBoxScrollingBlankSpace.Desktop.csproj", "{93DF2206-58FE-479F-B6EC-4F1D5CACCB39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE269A97-1697-4471-A8C6-E79B568FC14D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE269A97-1697-4471-A8C6-E79B568FC14D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE269A97-1697-4471-A8C6-E79B568FC14D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE269A97-1697-4471-A8C6-E79B568FC14D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93DF2206-58FE-479F-B6EC-4F1D5CACCB39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93DF2206-58FE-479F-B6EC-4F1D5CACCB39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93DF2206-58FE-479F-B6EC-4F1D5CACCB39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93DF2206-58FE-479F-B6EC-4F1D5CACCB39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A4F8D1A-5D68-4A5B-ACD0-BABD6D00E286}
+	EndGlobalSection
+EndGlobal
